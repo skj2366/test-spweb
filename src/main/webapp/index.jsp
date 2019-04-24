@@ -14,5 +14,6 @@
 		<c:url value="/showMessage.html" var="messageUrl" />
 		<a href="${messageUrl}">Click to enter</a>
 		<p>test-spweb</p>
+		asdasd
 	</body>
 </html>
